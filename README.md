@@ -4,6 +4,6 @@
 
 <h2>Tecnolgias</h2>
 <ul>
-    <l1>Python</li>
-    <l1>Discord</li>
+    <li>Python</li>
+    <li>Discord</li>
 </ul>
